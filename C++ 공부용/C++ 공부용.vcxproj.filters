@@ -54,5 +54,8 @@
     <ClCompile Include="N109.cpp">
       <Filter>소스 파일\Book_Code</Filter>
     </ClCompile>
+    <ClCompile Include="main3.cpp">
+      <Filter>소스 파일\Online_Lecture_Code</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
