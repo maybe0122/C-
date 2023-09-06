@@ -2,6 +2,8 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 
+#define SWAP(X, Y, T) T = X; X = Y; Y = T
+
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>

@@ -10,6 +10,8 @@ int main()
 		s1[i] = 2 * (i + 1);
 		printf("%d\n", s1[i]);
 	}
+
+	free(s1);
 }
 
 int getInt()
