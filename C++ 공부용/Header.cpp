@@ -11,3 +11,5 @@
 #include <ctime>
 
 int getInt();
+
+void printResult(int, int, int, int);
